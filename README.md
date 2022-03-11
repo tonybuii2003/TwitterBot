@@ -56,7 +56,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <!--<li><a href="#usage">Usage</a></li>-->
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <!--<li><a href="#contributing">Contributing</a></li>-->
     <li><a href="#license">License</a></li>
@@ -118,7 +118,9 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<img src="img/graph.png" alt="Create an account" width="400" height="400">
+<img src="img/post.png" alt="Create an account" width="400" height="400">
+<img src="img/delete.png" alt="Create an account" width="400" height="400">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
