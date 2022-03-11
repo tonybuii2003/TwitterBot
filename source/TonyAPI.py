@@ -1,3 +1,6 @@
+# TonyAPI.py
+# IAE 101, Fall 2021
+# Author: Phi Long Bui
 import requests as re
 # This method use to create an account for the new user.
 # parameters

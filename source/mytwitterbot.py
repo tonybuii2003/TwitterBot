@@ -122,13 +122,14 @@ def getCurrentDate():
     today = date.today()
     return str(today).replace("-", "")
 
+# This twitter bot is going to collect th tweet then analyze it to get command.
+# a case, generate a tracking account
+# d case, delete the tracking account
+# g case, create a graph as your habit
+# p case, update your graph with the amount of unit per day, make sure to delete the old p tweet before post another identical tweet.
+
 
 def twitterbot(api):
-    # This twitter bot is going to collect th tweet then analyze it to get command.
-    # a case, generate a tracking account
-    # d case, delete the tracking account
-    # g case, create a graph as your habit
-    # p case, update your graph with the amount of unit per day, make sure to delete the old p tweet before post another identical tweet.
     users = getListOfUser()
     for user in users:
         if user[3] == "a":
@@ -167,7 +168,6 @@ if __name__ == "__main__":
     # exercise2(api)
     # exercise3(api)
     # exercise4(api)
-
     # This is the function call that executes the code you defined above
     # for your twitterbot.
     twitterbot(api)
