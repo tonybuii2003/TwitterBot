@@ -22,17 +22,17 @@
     <img src="img/logo.png" alt="Logo" width="231" height="298">
  </p>
 
-<h3 align="center">Project Zero</h3>
+<h3 align="center">Procrastination Killer Bot</h3>
 
   <p align="center">
-    Virtual model of an atom.
+    The bot for a better habit
     <!--<br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
-    <a href="https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE">Download Demo</a>
-    ·
-    <a href="https://github.com/tonybuii2003/ProjectZero/issues">Report Bug</a>
+<!--     <a href="https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE">Download Demo</a>
+    · -->
+    <a href="https://github.com/tonybuii2003/TwitterBot/issues">Report Bug</a>
     <!--·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
     -->
@@ -69,7 +69,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The idea of **ProjectZero** was interesting. This was my high school chemistry creative project; a presentation for a chosen element from the periodic table. Instead of using presentation tools like PowerPoint, I decided to make an 3D animated figure of the atom using Java in Processing. The purpose of the project at first was that I found coding is enjoyable, but I think the virtualization of the atom could help students better understanding in the subject, and I believe I can bring joy to others' learning experience.
+This is the final project for my IAE 101 course I took at Stony Brook University in Fall 2021. It is an open source creative project base on a Twitter bot.
+The idea start from my personal issue with tracking habit, so I came up with a habit tracking bot with a hope to help me and other become more organized. 
 
 [![Product Name Screen Shot][product-screenshot]](img/ScreenShotDemoApp.png)
 
@@ -79,7 +80,7 @@ The idea of **ProjectZero** was interesting. This was my high school chemistry c
 
 <!--* [Next.js](https://nextjs.org/) -->
 * [Processing](https://processing.org)
-* [Java](https://www.java.com/en/)
+* [Python](https://www.python.org/)
 * [PeasyCam](https://mrfeinberg.com/peasycam/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
