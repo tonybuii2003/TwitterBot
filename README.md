@@ -81,7 +81,7 @@ The idea start from my personal issue with tracking habit, so I came up with a h
 <!--* [Next.js](https://nextjs.org/) -->
 * [Tweepy](https://www.tweepy.org/)
 * [Python](https://www.python.org/)
-* [PeasyCam](https://mrfeinberg.com/peasycam/)
+* [Pixela](https://pixe.la/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
