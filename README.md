@@ -95,7 +95,7 @@ In order to use the bot, you need to have a twitter account, create one [here](h
 
 ### Installation
 To create an habit tracking account, simple tag my bot () with "%a" before it. </br>
-<img src="img/create.png" alt="Create an account">
+<img src="img/create.png" alt="Create an account" width="231" height="298">
 <!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
