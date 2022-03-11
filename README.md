@@ -176,7 +176,7 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 [stars-url]: https://github.com/tonybuii2003/TwitterBot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tonybuii2003/TwitterBot.svg?style=for-the-badge
 [issues-url]: https://github.com/tonybuii2003/TwitterBot/issues
-[license-shield]: https://img.shields.io/github/LICENSE/tonybuii2003/TwitterBot.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/tonybuii2003/TwitterBot.svg?style=for-the-badge
 [license-url]: https://github.com/tonybuii2003/TwitterBot/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
