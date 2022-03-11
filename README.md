@@ -178,4 +178,4 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 [license-url]: https://github.com/tonybuii2003/ProjectZero/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
-[product-screenshot]: img/screenshot.png
+[product-screenshot]: img/screenshot1.png
