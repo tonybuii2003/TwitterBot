@@ -33,7 +33,6 @@ CONSUMER_SECRET = "NyQKSHLTCuI7TW25XKN7qtk5dcmT3l4qNxldjfqrNuoVk5DYTp"
 
 
 def exercise1(api):
-
     t = st.get_home_timeline(api, 10)
     for i in range(0, 10):
         json = t[i]._json

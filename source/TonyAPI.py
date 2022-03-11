@@ -1,5 +1,8 @@
 import requests as re
-# Create an account
+# This method use to create an account for the new user.
+# parameters
+#    username    : The username of the user
+#    acc_token : The token used for every account that got created
 
 
 def createAccount(username, acc_token):
@@ -15,6 +18,10 @@ def createAccount(username, acc_token):
 # end of createAccount()
 
 # set the token
+# This method use to set the accounts token for the new user.
+# parameters
+#    username : The username of the user
+#    newToke : The given token
 
 
 def setToken(newToken="", username=""):
@@ -22,6 +29,11 @@ def setToken(newToken="", username=""):
 # end of setToken()
 
 # delete the account
+
+# This method use to delete the selected account
+# parameters
+#    username    : The username of the user
+#    acc_token : The token used for every account that need deleting
 
 
 def deleteAccount(username="", acc_token=""):
@@ -34,6 +46,14 @@ def deleteAccount(username="", acc_token=""):
 # end of deleteAccount()
 
 # Create a habit graph
+# This method use to create a gragh for selected account
+# parameters
+#    username : The username of the user
+#    acc_token : The token used for every account that need deleting
+#    id : The id of the graph
+#    name : Name of the graph
+#    unit : Unit used for the graph
+#    timezone : The timezone used for the graph
 
 
 def createGraph(username="", acc_token="", id="test-graph", name="graph-name", unit="commit", timezone="EST"):
@@ -52,7 +72,11 @@ def createGraph(username="", acc_token="", id="test-graph", name="graph-name", u
     return result
 # end of createGraph()
 
-# delete an existed graph
+# This method use to delete a gragh for selected account
+# parameters
+#    username : The username of the user
+#    acc_token : The token used for every account that need deleting
+#    id : The id of the graph
 
 
 def deleteGraph(username="", acc_token="", id="test_graph"):
@@ -62,14 +86,21 @@ def deleteGraph(username="", acc_token="", id="test_graph"):
     result = f'{delete.json().get("message")} Your graph is deleted'
     return result
 # end of deleteGraph()
-# upate the graph with one pixel
+
+# This method use to update the graph with one pixel a gragh for selected account
+# parameters
+#    date : The current date the pixel is added
+#    username : The username of the user
+#    acc_token : The token used for every account that need deleting
+#    graphID : The id of the graph
+#    quantity : The quality of the amount of <unit> that need to add into the pixel
 
 
-def postPixel(date="20211204", username="", acc_token="", graphID="", quantity="1"):
+def postPixel(date="20211204", username="", acc_token="", graphID="", quality="1"):
     url = 'https://pixe.la/v1/users/'+username+'/graphs/'+graphID
     header2 = {"X-USER-TOKEN": acc_token}
     obj = {"date": date,
-           "quantity": quantity}
+           "quality": quality}
     pixel = re.post(url, headers=header2, json=obj)
     result = f'{pixel.json().get("message")} You have posted a pixel to your {graphID} graph. View your graph at https://pixe.la/v1/users/{username}/graphs/{graphID}.html?mode=simple'
     return result
