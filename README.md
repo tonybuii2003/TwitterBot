@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is the final project for my IAE 101 course I took at Stony Brook University in Fall 2021. It is an open source creative project base on a Twitter bot.
-The idea start from my personal issue with tracking habit, so I came up with a habit tracking bot with a hope to help me and other become more organized. 
+The idea start from my personal issue with tracking habit, so I came up with a habit tracking bot with a hope to help me and others become more organized. 
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
