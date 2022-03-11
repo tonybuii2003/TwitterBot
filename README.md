@@ -170,7 +170,7 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 [contributors-url]: https://github.com/tonybuii2003/ProjectZero/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/tonybuii2003/ProjectZero.svg?style=for-the-badge
 [forks-url]: https://github.com/tonybuii2003/ProjectZero/network/members
-[stars-shield]: https://img.shields.io/github/stars/tonybuii2003/ProjectZero.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tonybuii2003/TwitterBot.svg?style=for-the-badge
 [stars-url]: https://github.com/tonybuii2003/ProjectZero/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tonybuii2003/ProjectZero.svg?style=for-the-badge
 [issues-url]: https://github.com/tonybuii2003/ProjectZero/issues
