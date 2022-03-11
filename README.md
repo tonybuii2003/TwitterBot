@@ -166,16 +166,16 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/ProjectZero.svg?style=for-the-badge
-[contributors-url]: https://github.com/tonybuii2003/ProjectZero/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tonybuii2003/ProjectZero.svg?style=for-the-badge
-[forks-url]: https://github.com/tonybuii2003/ProjectZero/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/TwitterBot.svg?style=for-the-badge
+[contributors-url]: https://github.com/tonybuii2003/TwitterBot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tonybuii2003/TwitterBot.svg?style=for-the-badge
+[forks-url]: https://github.com/tonybuii2003/TwitterBot/network/members
 [stars-shield]: https://img.shields.io/github/stars/tonybuii2003/TwitterBot.svg?style=for-the-badge
-[stars-url]: https://github.com/tonybuii2003/ProjectZero/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tonybuii2003/ProjectZero.svg?style=for-the-badge
+[stars-url]: https://github.com/tonybuii2003/TwitterBot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tonybuii2003/TwitterBot.svg?style=for-the-badge
 [issues-url]: https://github.com/tonybuii2003/ProjectZero/issues
-[license-shield]: https://img.shields.io/github/license/tonybuii2003/ProjectZero.svg?style=for-the-badge
-[license-url]: https://github.com/tonybuii2003/ProjectZero/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/tonybuii2003/TwitterBot.svg?style=for-the-badge
+[license-url]: https://github.com/tonybuii2003/TwitterBot/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
 [product-screenshot]: img/screenshot1.png
