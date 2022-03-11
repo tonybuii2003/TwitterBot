@@ -129,14 +129,14 @@ To create an habit tracking account, simple tag my bot () with "%a" before it. <
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Adding nucleus and electron rotating around the nucleus as circles.
-- [x] Used PeasyCam to trasfer the model from 2D to 3D
-- [x] Vỉtual 3D control
-    - [x] Using mouse
-    - [x] Using keyboard
-    - [ ] Make a user-friendly IU 
+- [x] User can create an account.
+- [x] User can delete the account
+- [x] User can create a graph to keep track of their process
+    - [x] Update a pixel to the graph
+    - [x] Tweet the graph 
+    - [ ] Tweet a pixel
 
-See the [open issues](https://github.com/tonybuii2003/ProjectZero/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/tonybuii2003/Twitter/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
