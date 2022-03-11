@@ -79,7 +79,7 @@ The idea start from my personal issue with tracking habit, so I came up with a h
 ### Built With
 
 <!--* [Next.js](https://nextjs.org/) -->
-* [Processing](https://processing.org)
+* [Tweepy](https://www.tweepy.org/)
 * [Python](https://www.python.org/)
 * [PeasyCam](https://mrfeinberg.com/peasycam/)
 
