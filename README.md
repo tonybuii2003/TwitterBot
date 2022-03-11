@@ -91,11 +91,11 @@ The idea start from my personal issue with tracking habit, so I came up with a h
 ## Getting Started
 ### Prerequisites
 
-In order to run the software in Java, you first need to install the Java Development Kit (JDK). You can look at the installation guide [_here_](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)</br>
-To see the code in pde (Processing), you need to have Processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
+In order to use the bot, you need to have a twitter account, create one [here](https://twitter.com)
 
 ### Installation
-To try the demo application simply [Download Demo](https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE) and double cick the app icon to open the 3D vitual figure.
+To create an habit tracking account, simple tag my bot () with "%a" before it. </br>
+<img src="img/create.png" alt="Create an account">
 <!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
