@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <p>
-    <img src="img/icon.png" alt="Logo" width="344" height="409">
+    <img src="img/icon.png" alt="Logo" width="217" height="258">
  </p>
 
 <h3 align="center">Procrastination Killer Bot</h3>
