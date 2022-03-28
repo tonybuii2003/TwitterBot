@@ -22,10 +22,10 @@
     <img src="img/icon.png" alt="Logo" width="217" height="258">
  </p>
 
-<h3 align="center">Procrastination Killer Bot</h3>
+<h3 align="center">Procrastination Killer Bot - Pono</h3>
 
   <p align="center">
-    The bot for a better habit
+    A habit can start with Pono
     <!--<br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>-->
     <br />
