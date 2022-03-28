@@ -160,7 +160,7 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Processing Tutorials](https://processing.org/tutorials)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
