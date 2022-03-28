@@ -159,6 +159,7 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+*simple_twit.py was created by [Professor Kane](https://www.cs.stonybrook.edu/people/faculty/ChristopherKane)*
 
 
 
